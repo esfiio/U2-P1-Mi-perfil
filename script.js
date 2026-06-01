@@ -18,3 +18,9 @@ boton.addEventListener("click", function() {
         saludoMostrado = true;
     }
 });
+
+const botonNombre = document.getElementById("btn-nombre");
+
+botonNombre.addEventListener("click", function (){
+    document.querySelector("h1").textContent = "Diego SC";
+})

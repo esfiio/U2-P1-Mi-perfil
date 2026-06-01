@@ -86,3 +86,11 @@ footer {
     color: #bdc3c7;
     font-size: 0.9em;
 }
+
+#Proyectos {
+    background-color: #bdc3c7;
+}
+
+#btn-nombre:hover {
+    background-color: #2980b9;
+}
